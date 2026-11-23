@@ -61,7 +61,7 @@ Her şeyi tek bir düğme çalıştırır.
 Node.js 25 ya da üstü gerekir. Java, JDK ya da Android SDK gerekmez.
 
 ```bash
-git clone https://github.com/LLCForge/Peel-Java.git
+git clone https://github.com/ForgeLLC/Peel-Java.git
 cd Peel-Java
 npm install
 npm run dev

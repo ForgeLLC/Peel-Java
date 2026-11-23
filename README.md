@@ -62,7 +62,7 @@ One button runs everything.
 You need Node.js 25 or newer. There is no Java, JDK or Android SDK requirement.
 
 ```bash
-git clone https://github.com/LLCForge/Peel-Java.git
+git clone https://github.com/ForgeLLC/Peel-Java.git
 cd Peel-Java
 npm install
 npm run dev

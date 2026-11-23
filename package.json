@@ -19,9 +19,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LLCForge/Peel-Java.git"
+    "url": "git+https://github.com/ForgeLLC/Peel-Java.git"
   },
-  "homepage": "https://github.com/LLCForge/Peel-Java#readme",
+  "homepage": "https://github.com/ForgeLLC/Peel-Java#readme",
   "keywords": [
     "deobfuscator",
     "java",
